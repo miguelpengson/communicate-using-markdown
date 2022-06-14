@@ -12,10 +12,8 @@ $ source venv/bin/activate
 (venv)$
 ```
 
-# Task List
 
--  [x] What happened to the checks
--  [x] Outline my portfolio
--  [x] Introduce myself to the world.
-
+- [ ] task list
+- [ ] why fail
+- [ ] how many times
 
