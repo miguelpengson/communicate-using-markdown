@@ -11,8 +11,11 @@
 $ source venv/bin/activate
 (venv)$
 ```
+
 # Task List
 
--  [x] Turn on GitHub Pages
--  [ ] Outline my portfolio
--  [ ] Introduce myself to the world.
+-  [x] What happened to the checks
+-  [x] Outline my portfolio
+-  [x] Introduce myself to the world.
+
+
